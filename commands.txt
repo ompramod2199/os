@@ -1,0 +1,17 @@
+1)date
+2)date+%m,h,d,y,H,M,S
+3)cal 2 2009
+4)echo "hi"
+5)ls
+6)ls-t,s,r
+7)uptime
+8)bc(best calculator)
+9)cat>file1(creation)
+10)cat file1(viewing)
+11)cat>>file1(add text to exixting)
+12)grep man college
+13)rm file1(remove)
+14)touch file1(blank file creation)
+15)cp sourcefile destinationfile
+16)head -2 student
+17)tail -2 student
